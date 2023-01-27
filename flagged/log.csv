@@ -1,0 +1,6 @@
+Algorithm,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer,output,flag,username,timestamp
+rt,26.54,0,0,0,0,0,0,1,6,5,0,0,0,7,0,0,0,0,,,2023-01-22 03:15:20.177144
+rt,26.54,0,0,0,0,0,0,1,6,5,0,0,0,7,0,0,0,0,,,2023-01-22 03:15:21.013487
+rt,26.54,0,0,0,0,0,0,1,6,5,0,1,0,7,0,0,0,0,,,2023-01-22 08:36:10.305542
+rt,26.54,0,0,0,0,0,0,1,6,5,0,1,0,7,0,0,0,0,,,2023-01-22 08:36:11.611219
+rt,26.54,0,0,0,0,0,0,1,6,5,0,1,0,7,0,0,0,0,,,2023-01-22 08:36:12.789265
